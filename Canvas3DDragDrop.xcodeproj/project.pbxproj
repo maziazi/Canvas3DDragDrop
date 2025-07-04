@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5C4A354B2E18268E00D3ECEE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5C4A354A2E18267E00D3ECEE /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		5C4A303F2E05EEC500D3ECEE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		5C4A30312E05EEC300D3ECEE /* Canvas3DDragDrop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Canvas3DDragDrop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C4A303E2E05EEC500D3ECEE /* Canvas3DDragDropTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Canvas3DDragDropTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C4A30482E05EEC500D3ECEE /* Canvas3DDragDropUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Canvas3DDragDropUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C4A354A2E18267E00D3ECEE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		5C4A30282E05EEC300D3ECEE = {
 			isa = PBXGroup;
 			children = (
+				5C4A354A2E18267E00D3ECEE /* README.md */,
 				5C4A30332E05EEC300D3ECEE /* Canvas3DDragDrop */,
 				5C4A30412E05EEC500D3ECEE /* Canvas3DDragDropTests */,
 				5C4A304B2E05EEC500D3ECEE /* Canvas3DDragDropUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C4A354B2E18268E00D3ECEE /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
